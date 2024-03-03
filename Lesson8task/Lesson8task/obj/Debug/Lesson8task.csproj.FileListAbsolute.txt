@@ -1,0 +1,8 @@
+C:\Users\hamidoffa\Desktop\c\Lesson8task\Lesson8task\bin\Debug\Lesson8task.exe.config
+C:\Users\hamidoffa\Desktop\c\Lesson8task\Lesson8task\bin\Debug\Lesson8task.exe
+C:\Users\hamidoffa\Desktop\c\Lesson8task\Lesson8task\bin\Debug\Lesson8task.pdb
+C:\Users\hamidoffa\Desktop\c\Lesson8task\Lesson8task\obj\Debug\Lesson8task.csproj.AssemblyReference.cache
+C:\Users\hamidoffa\Desktop\c\Lesson8task\Lesson8task\obj\Debug\Lesson8task.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamidoffa\Desktop\c\Lesson8task\Lesson8task\obj\Debug\Lesson8task.csproj.CoreCompileInputs.cache
+C:\Users\hamidoffa\Desktop\c\Lesson8task\Lesson8task\obj\Debug\Lesson8task.exe
+C:\Users\hamidoffa\Desktop\c\Lesson8task\Lesson8task\obj\Debug\Lesson8task.pdb
