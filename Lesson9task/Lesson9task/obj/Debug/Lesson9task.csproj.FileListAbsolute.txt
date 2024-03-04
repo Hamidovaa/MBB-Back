@@ -1,0 +1,8 @@
+C:\Users\hamidoffa\Desktop\c\Lesson9task\Lesson9task\bin\Debug\Lesson9task.exe.config
+C:\Users\hamidoffa\Desktop\c\Lesson9task\Lesson9task\bin\Debug\Lesson9task.exe
+C:\Users\hamidoffa\Desktop\c\Lesson9task\Lesson9task\bin\Debug\Lesson9task.pdb
+C:\Users\hamidoffa\Desktop\c\Lesson9task\Lesson9task\obj\Debug\Lesson9task.csproj.AssemblyReference.cache
+C:\Users\hamidoffa\Desktop\c\Lesson9task\Lesson9task\obj\Debug\Lesson9task.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamidoffa\Desktop\c\Lesson9task\Lesson9task\obj\Debug\Lesson9task.csproj.CoreCompileInputs.cache
+C:\Users\hamidoffa\Desktop\c\Lesson9task\Lesson9task\obj\Debug\Lesson9task.exe
+C:\Users\hamidoffa\Desktop\c\Lesson9task\Lesson9task\obj\Debug\Lesson9task.pdb
